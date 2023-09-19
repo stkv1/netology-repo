@@ -27,7 +27,9 @@ https://github.com/stkv1/netology-repo/commit/58daafc186086659a4888d1eabc9f30094
 
 ![ignoring when git add](https://github.com/stkv1/netology-repo/blob/main/img/208.PNG)
 
-Ссылка на коммит
+Ссылка на коммит:
+https://github.com/stkv1/netology-repo/commit/a844a4d6bedec0e98d486c48219f6f2edd7af73a
+
 
 
 
